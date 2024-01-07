@@ -8,7 +8,6 @@ This project explores a dynamic pricing strategy for ride-sharing services by an
 - NumPy
 - Plotly
 - Matplotlib
-- Statsmodels
 - Scikit-learn
 
 ## Data
